@@ -38,9 +38,9 @@ introduce()
 
 ## 🛠️ My Tech Stack
 
- <img src="https://skillicons.dev/icons?i=python,Java,C#,django,fastapi,postgresql,aws,docker,figma,ps"/>  
- <img src="https://skillicons.dev/icons?i=react,Bootstrap,tailwindcss,html,css,js,nodejs,express,.NET"/>  
- <img src="https://skillicons.dev/icons?i=linux,vscode,webstorm,pycharm,vstudio,github,git,mysql,mongodb,firebase,Stack Overflow"/>  
+ <img src="https://skillicons.dev/icons?i=python,java,c#,django,fastapi,postgresql,aws,docker,figma,ps"/>  
+ <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwindcss,html,css,js,nodejs,express,.net"/>  
+ <img src="https://skillicons.dev/icons?i=linux,vscode,webstorm,pycharm,vstudio,github,git,mysql,mongodb,firebase,stackoverflow"/>  
 
 </div>
 
