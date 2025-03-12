@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+Thilina+Samarasinghe✨;+Front-End+Developer+💻;AI+%26+Cloud/DevOps+Enthusiast+☁️;&color=00BFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+🫶+coders;I'm+Thilina+Samarasinghe✨;+Front-End+Developer+💻;AI+%26+Cloud/DevOps+Enthusiast+☁️;&color=00BFFF" />
 </h1>
 
 <p align="center">
