@@ -39,20 +39,20 @@ introduce()
 ## 🛠️ My Tech Stack
 
  <img src="https://skillicons.dev/icons?i=python,java,c#,django,fastapi"/>  
- <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwindcss,html,css,js,nodejs,express,typescript,net"/>  
+ <img src="https://skillicons.dev/icons?i=cpp,cs,django,fastapi,react,bootstrap,tailwindcss,html,css,js,nodejs,express,typescript,net"/>  
  <img src="https://skillicons.dev/icons?i=linux,vscode,webstorm,pycharm,figma,ps,ai,github,git,mysql,postgresql,mongodb,aws,firebase,stackoverflow"/>  
 
 </div>
 
 ---
 
-## ⚙️ GitHub Analytics
+<!--## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/ThilinaSamarasinghe">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThilinaSamarasinghe&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThilinaSamarasinghe&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
   </a>
-</p>
+</p>-->
 
 ---
 
