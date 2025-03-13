@@ -36,7 +36,7 @@ introduce()
 
 <div align="center">
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tool Kit
 
  <img src="https://skillicons.dev/icons?i=python,java,c#,django,fastapi"/>  
  <img src="https://skillicons.dev/icons?i=cpp,cs,django,fastapi,react,bootstrap,tailwindcss,html,css,js,nodejs,express,typescript,net"/>  
