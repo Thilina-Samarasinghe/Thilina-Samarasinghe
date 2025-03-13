@@ -62,9 +62,9 @@ introduce()
 
 ---
 
-## 🌟 Fun Fact:
+<!--## 🌟 Fun Fact:
 I'm passionate about DevOps & Backend Engineering, but I also have a strong eye for UI/UX!  
-Balancing logic and creativity keeps me engaged. 🚀  
+Balancing logic and creativity keeps me engaged. 🚀-->  
 
 ---
 
