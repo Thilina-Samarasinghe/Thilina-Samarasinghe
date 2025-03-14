@@ -46,13 +46,13 @@ introduce()
 
 ---
 
-<!--## ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 <p align="center">
-  <a href="https://github.com/ThilinaSamarasinghe">
+  <a href="https://github.com/Thilina-Samarasinghe">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThilinaSamarasinghe&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThilinaSamarasinghe&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
   </a>
-</p>-->
+</p>
 
 ---
 
