@@ -78,7 +78,7 @@ This quote inspires me to keep innovating and pushing the limits in technology.
 I'm always open to collaborations, networking, and discussions about cloud computing, backend development, and DevOps.  
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/thilina-samarasinghe">
+    <a href="https://www.linkedin.com/in/thilina-samarasinghe-a82145279/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://github.com/ThilinaSamarasinghe">
