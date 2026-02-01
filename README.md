@@ -48,18 +48,17 @@ introduce()
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <a href="https://github.com/Thilina-Samarasinghe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilina-Samarasinghe&theme=dark&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilina-Samarasinghe&theme=react-dark&bg_color=000000&color=00BFFF&line=1E90FF&point=87CEFA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Thilina-Samarasinghe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilina-Samarasinghe&theme=github_dark"/>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thilina-Samarasinghe&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thilina-Samarasinghe&theme=github_dark"/>
+</p>
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thilina-Samarasinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
