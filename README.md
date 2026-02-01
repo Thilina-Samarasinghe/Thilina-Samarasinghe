@@ -76,11 +76,13 @@ introduce()
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=E91E63&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilina-Samarasinghe&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=E91E63&fire=BB86FC&currStreakLabel=00BFFF" alt="GitHub Streak" />
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=E91E63&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilina-Samarasinghe&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=E91E63&fire=BB86FC&currStreakLabel=00BFFF" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages" />
+</p>
 </div>
 
 ---
