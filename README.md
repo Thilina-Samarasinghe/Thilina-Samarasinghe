@@ -76,13 +76,16 @@ introduce()
 ## 🐍 
 
 <div align="center">
-
+<!-- Animated THILINA Text Banner -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=75&duration=1500&pause=500&color=E91E63&center=true&vCenter=true&width=800&height=100&lines=THILINA;THILINA+SAMARASINGHE;DEVELOPER+%7C+INNOVATOR" alt="THILINA" />
+</div>
+🐍 Contribution Snake Animation
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thilina-Samarasinghe/Thilina-Samarasinghe/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thilina-Samarasinghe/Thilina-Samarasinghe/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thilina-Samarasinghe/Thilina-Samarasinghe/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
 </div>
 ---
 
