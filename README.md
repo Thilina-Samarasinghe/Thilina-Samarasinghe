@@ -60,8 +60,12 @@ introduce()
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thilina-Samarasinghe&theme=github_dark"/>
 </p>
 ---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thilina-Samarasinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thilina-Samarasinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
