@@ -49,6 +49,12 @@ introduce()
 ## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/Thilina-Samarasinghe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilina-Samarasinghe&theme=dark&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Thilina-Samarasinghe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=00BFFF&icon_color=1E90FF&text_color=87CEFA"/>
   </a>
