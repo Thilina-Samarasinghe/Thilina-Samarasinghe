@@ -1,6 +1,8 @@
 # Thilina Samarasinghe
 
-**Full-Stack Developer (Backend-Focused) | AI & Cloud/DevOps Enthusiast**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer+(Backend-Focused);AI+%26+Cloud%2FDevOps+Enthusiast" alt="Typing SVG"/>
+</p>
 
 Software engineer specializing in backend development, with full-stack capabilities across cloud computing and DevOps practices.
 
