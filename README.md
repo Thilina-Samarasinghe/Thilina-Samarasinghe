@@ -15,27 +15,27 @@ I build web applications end-to-end with a primary focus on backend systems, and
 ## Technical Skills
 
 **Languages**
-<br>
+
 <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts" alt="Languages"/>
 
 **Frontend**
-<br>
+
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="Frontend"/>
 
 **Backend**
-<br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet" alt="Backend"/>
 
 **Databases**
-<br>
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
 
 **Cloud & DevOps**
-<br>
+
 <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,linux" alt="Cloud & DevOps"/>
 
 **Tools**
-<br>
+
 <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma,ps,ai" alt="Tools"/>
 
 ---
