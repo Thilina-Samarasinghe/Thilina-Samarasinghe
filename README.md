@@ -10,31 +10,33 @@ Software engineer specializing in backend development, with full-stack capabilit
 
 I build web applications end-to-end with a primary focus on backend systems, and a growing interest in cloud infrastructure and deployment automation. I enjoy solving problems, learning new tools, and collaborating on projects that push my skills further.
 
-- 🛠️ Currently focused on: Backend Development, DevOps, Cloud Computing
-- 🌱 Learning: AWS, CI/CD pipelines, containerization
-- 🤝 Open to: Collaborations and discussions on backend development, cloud, and DevOps
-
 ---
 
 ## Technical Skills
 
 **Languages**
-`Python` `Java` `C#` `C++` `JavaScript` `TypeScript`
+<br>
+<img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts" alt="Languages"/>
 
 **Frontend**
-`React` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="Frontend"/>
 
 **Backend**
-`Node.js` `Express` `Django` `FastAPI` `.NET`
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet" alt="Backend"/>
 
 **Databases**
-`MySQL` `PostgreSQL` `MongoDB`
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
 
 **Cloud & DevOps**
-`AWS` `Firebase` `Git` `GitHub` `Linux`
+<br>
+<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,linux" alt="Cloud & DevOps"/>
 
 **Tools**
-`VS Code` `WebStorm` `PyCharm` `Figma` `Adobe Photoshop` `Adobe Illustrator`
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma,ps,ai" alt="Tools"/>
 
 ---
 
@@ -49,9 +51,17 @@ I build web applications end-to-end with a primary focus on backend systems, and
 
 ## Connect With Me
 
-- LinkedIn: [thilina-samarasinghe](https://www.linkedin.com/in/thilina-samarasinghe-a82145279/)
-- GitHub: [Thilina-Samarasinghe](https://github.com/Thilina-Samarasinghe)
-- HackerRank: [thilina_samarasinghe](https://www.hackerrank.com/thilina_samarasinghe)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thilina-samarasinghe-a82145279/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Thilina-Samarasinghe">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/thilina_samarasinghe">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank"/>
+  </a>
+</p>
 
 ---
 
