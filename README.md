@@ -16,7 +16,13 @@ I build web applications end-to-end with a primary focus on backend systems, and
 
 ## Technical Skills
 
-<img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,react,html,css,bootstrap,tailwind,nodejs,express,django,fastapi,dotnet,mysql,postgres,mongodb,aws,firebase,git,github,linux,vscode,webstorm,pycharm,figma,ps,ai" alt="Technical Skills"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,react,html,css,bootstrap,tailwind,nodejs,express,django,fastapi,dotnet,mysql,postgres,mongodb,aws,firebase,git,github,linux,docker,terraform,figma,ps,ai" alt="Technical Skills"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+</p>
 
 ---
 
