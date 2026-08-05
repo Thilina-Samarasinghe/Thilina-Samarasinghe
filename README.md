@@ -24,7 +24,7 @@ I build web applications end-to-end with a primary focus on backend systems, and
 
 <p align="left">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
