@@ -20,7 +20,7 @@ I build web applications end-to-end with a primary focus on backend systems, and
   <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,react,html,css,bootstrap,tailwind,nodejs,express,django,fastapi,dotnet,mysql,postgres,mongodb,aws,firebase,git,github,linux,docker,terraform,flutter,figma,ps,ai" alt="Technical Skills"/>
 </p>
 
----
+
 
 ## GitHub Stats
 
