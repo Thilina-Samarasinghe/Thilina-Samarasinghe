@@ -38,9 +38,6 @@ I build web applications end-to-end with a primary focus on backend systems, and
   <a href="https://www.linkedin.com/in/thilina-samarasinghe-a82145279/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Thilina-Samarasinghe">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
   <a href="https://www.hackerrank.com/thilina_samarasinghe">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank"/>
   </a>
@@ -48,4 +45,4 @@ I build web applications end-to-end with a primary focus on backend systems, and
 
 ---
 
-<p align="center"><em>"The best way to predict the future is to invent it." — Alan Kay</em></p>
+<p align="center"><em>"The best way to predict the future is to invent it." - Alan Kay</em></p>
