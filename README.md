@@ -24,10 +24,12 @@ I build web applications end-to-end with a primary focus on backend systems, and
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/><img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
+<p align="center">
+<a href="https://github.com/Thilina-Samarasinghe">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Thilina-Samarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thilina-Samarasinghe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
 ---
 
 ## Connect With Me
